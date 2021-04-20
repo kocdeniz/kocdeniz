@@ -2,7 +2,9 @@
 
 ### Welcome to my github account. :smiley:
 
-## Learning coding && cyber security  || Linux user
+## Learning Coding && Cyber Security |
+
+## Also a linux user
 
 <br />
 
