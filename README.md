@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/computer-code-gif-19687446" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" align="right" width="400" height="250">
 
 ### Welcome to my github account. :smiley:
 
