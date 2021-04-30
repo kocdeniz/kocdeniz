@@ -4,11 +4,11 @@
 
 ## Learning Coding && Cyber Security |
 
-## Also a linux user
+## Also a GNU/Linux user
 
 <br />
 
-### I'm on
+### I'm just on
 <br />
 
 [<img height="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
