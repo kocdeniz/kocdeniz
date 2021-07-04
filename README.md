@@ -36,19 +36,17 @@
 
 
 
+<hr />
 
 
 <details> 
- 
-<br />
-<br />
 <summary>
 :loop: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kocdeniz&theme=radical">
 </details>  
 
 <br />
-<br />
+
 
 <details> 
 <summary>
