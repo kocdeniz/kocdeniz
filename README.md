@@ -57,7 +57,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/deniz-ko%C3%A7-780090104/
+[linkedin]: https://www.linkedin.com/in/deniz-koc-780090104/
 
 
 
