@@ -3,9 +3,9 @@
 
 ##### NOW
 
-- ✨ Learning DevOps Tools and networking  
-- 🇵🇹 Joining Bootcamps about IT && Security
-- 🍑 coding random python scripts just for fun
+- :loop: Learning DevOps Tools and networking  
+- :loop: Joining Bootcamps about IT && Security
+- :loop: coding random python scripts just for fun
 
 
 
