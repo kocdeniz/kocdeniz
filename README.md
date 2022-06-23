@@ -3,7 +3,7 @@
 
 ##### NOW
 
-- :loop: Learning DevOps Tools and networking  
+- :loop: Learning DevOps Tools and Networking  
 - :loop: Joining Bootcamps about IT & Security
 - :loop: Coding random python scripts just for fun
 
