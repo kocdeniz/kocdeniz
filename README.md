@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://discord.gg/3MMam4rArn" target="_blank" rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" height="30" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.png" alt="Discord" height="30" width="30">
 </a>
 </p>
 
