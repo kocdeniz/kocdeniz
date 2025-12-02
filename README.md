@@ -57,18 +57,18 @@
 <br />
 
 <details> 
-<summary>
-:loop: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kocdeniz&theme=radical">
+<summary>🔄 GitHub Stats</summary>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kocdeniz&show_icons=true&theme=radical)
+
 </details>  
-
-
 
 <details> 
-<summary>
-:loop: Most used languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocdeniz&layout=compact">
-</details>  
+<summary>🔄 Most Used Languages</summary>
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kocdeniz&layout=compact&theme=radical)
+
+</details>
 
 
 
