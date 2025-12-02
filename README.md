@@ -1,82 +1,33 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Deniz Koc</h1>
+<h1 align="center">Hi 👋, I'm Deniz</h1>
+<h3 align="center">A passionate Tech Guy into Linux and Cloud</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kocdeniz" alt="kocdeniz" /></a> </p>
 
-##### NOW
+- 🔭 I’m currently working on **Linux Servers and Networking**
 
-- :loop: Learning DevOps Tools and Networking  
-- :loop: Joining Bootcamps about IT & Security
-- :loop: Coding random python scripts just for fun
+- 🌱 I’m currently learning **Kubernetes and Cloud Tools**
 
+- 👨‍💻 All of my projects are available at [https://github.com/kocdeniz](https://github.com/kocdeniz)
 
+- 📝 I regularly write articles on [https://devopsdeniz.com/](https://devopsdeniz.com/)
 
-<br />
-<br />
+- 💬 Ask me about **Linux flavors and Devops Tools**
 
-
-
-
-
-
-<br />
-<br />
-
-
-
-
-### I generally work on 
-
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" />
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40" />
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="40" height="40" />
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
+- 📫 How to reach me **95denizkoc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denizkocc" target="_blank" rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30">
-</a>
-
-<a href="https://discord.gg/3MMam4rArn" target="_blank" rel="noopener">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.png" alt="Discord" height="30" width="30">
-</a>
+<a href="https://linkedin.com/in/https://devopsdeniz.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://devopsdeniz.com/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://devopsdeniz.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://devopsdeniz.com/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<br />
-<br />
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="1" /></a><a href="https://ko-fi.com/kocdeniz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kocdeniz" /></a></p><br><br>
 
-<details> 
-<summary>🔄 GitHub Stats</summary>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kocdeniz&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocdeniz&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="kocdeniz" /></p>
 
-</details>  
-
-<details> 
-<summary>🔄 Most Used Languages</summary>
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kocdeniz&layout=compact&theme=radical)
-
-</details>
-
-
-
-
-
-
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocdeniz&show_icons=true&theme=synthwave&locale=en" alt="kocdeniz" /></p>
 
