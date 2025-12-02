@@ -43,8 +43,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denizkocc" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Linkedn" height="30" width="30" /></a>
-<a href="https://discord.gg/3MMam4rArn" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
+<a href="https://linkedin.com/in/denizkocc" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30">
+</a>
+
+<a href="https://discord.gg/3MMam4rArn" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" height="30" width="30">
+</a>
 </p>
 
 
